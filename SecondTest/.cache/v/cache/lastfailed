@@ -1,0 +1,5 @@
+{
+  "test_two.py::test_fatorial3": true, 
+  "test_two.py::test_fatorial4": true, 
+  "test_two.py::test_fatorial_negativo": true
+}
